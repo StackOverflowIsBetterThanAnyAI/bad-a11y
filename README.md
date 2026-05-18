@@ -2,6 +2,7 @@
 
 - 1x no lang attribute
 - 1x no describing title
+- 1x site is not responsive
 - 1x maximum-scale prevents zooming
 - 1x link has no accessible name
 - 1x image has no alt attribute
