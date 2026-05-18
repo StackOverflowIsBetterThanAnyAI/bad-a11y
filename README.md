@@ -14,6 +14,7 @@
 - 1x list has bad child element
 - 3x link has bad accessible name
 - 3x li item has wrong parent element
+- 2x link has insufficient clickable space
 - 2x link cannot be a child of a button element
 - 1x image is wrongfully marked as decoration
 - 2x no indicator that link opens in new tab
