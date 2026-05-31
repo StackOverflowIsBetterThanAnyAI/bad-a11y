@@ -23,3 +23,5 @@
 - 1x font size is too small
 - 1x skip to main link is not the first focusable element
 - 14x text is not contained in a landmark
+- 8x insufficient contrast in hover state
+- 8x insufficient contrast in focus state
