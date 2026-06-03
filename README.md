@@ -25,3 +25,4 @@
 - 14x text is not contained in a landmark
 - 8x insufficient contrast in hover state
 - 8x insufficient contrast in focus state
+- 1x id is assigned twice
