@@ -26,3 +26,4 @@
 - 8x insufficient contrast in hover state
 - 8x insufficient contrast in focus state
 - 1x id is assigned twice
+- 3x insufficient line height
